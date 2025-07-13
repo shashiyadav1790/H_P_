@@ -39,6 +39,8 @@ const Footer = () => {
       {/* Bottom */}
       <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm text-gray-500">
         &copy; {new Date().getFullYear()} PixelCraft Studios. All rights reserved.
+        <br />
+        Created by <span className="text-red-500 font-semibold">Shashi Yadav ❤️</span>
       </div>
     </footer>
   );
