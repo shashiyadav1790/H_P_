@@ -17,6 +17,8 @@ export default function App() {
       <div id="about"><AboutSection /></div>
       <div id="services"><ServicesSection/></div>
       <div id="contact"><ContactSection /></div>
+   
+
       <Footer />
     </>
   );
