@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
-import "./HeroSection.css"; // 👈 Import CSS here
+import "./HeroSection.css"; //Import CSS here
 
 export default function HeroSection() {
   const typedRef = useRef(null);

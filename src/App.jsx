@@ -12,11 +12,11 @@ export default function App() {
   return (
     <>
       <Navbar />
-      <div id="home"><HeroSection /></div>
-      <div id="gallery"><GallerySection /></div>
-      <div id="about"><AboutSection /></div>
-      <div id="services"><ServicesSection/></div>
-      <div id="contact"><ContactSection /></div>
+      <div ><HeroSection /></div>
+      <div ><GallerySection /></div>
+      <div ><AboutSection /></div>
+      <div ><ServicesSection/></div>
+      <div ><ContactSection /></div>
    
 
       <Footer />
